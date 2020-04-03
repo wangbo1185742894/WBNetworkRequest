@@ -1,0 +1,6 @@
+framework module WBExtendTools {
+  umbrella header "WBExtendTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

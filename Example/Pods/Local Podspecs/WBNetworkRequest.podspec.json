@@ -1,0 +1,37 @@
+{
+  "name": "WBNetworkRequest",
+  "version": "1.0.0",
+  "summary": "基于SQRNetworkRequest,优化图片上传，网络监测",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangbo1185742894/WBNetworkRequest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangbo1185742894": "wangbo3919@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangbo1185742894/WBNetworkRequest.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WBNetworkRequest/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ],
+    "YYCache": [
+
+    ],
+    "WBExtendTools": [
+
+    ]
+  }
+}

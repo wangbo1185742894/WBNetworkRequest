@@ -1,0 +1,6 @@
+framework module WBNetworkRequest {
+  umbrella header "WBNetworkRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}
